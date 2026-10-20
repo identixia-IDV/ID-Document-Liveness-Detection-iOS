@@ -105,9 +105,9 @@ Sample id:
 
 Set the key, then activate:
 
-https://github.com/identixia-IDV/ID-Document-Liveness-Detection-iOS/blob/c3a78e0fdeff4e1ffffe316fa20eddfbfaf1ff65/DocumentReader/ViewController.swift#L11-L14
+https://github.com/identixia-IDV/ID-Document-Liveness-Detection-iOS/blob/6fb9c66a59dd6e48e847b938dde3a9e06ac88aa7/DocumentReader/ViewController.swift#L11-L14
 
-https://github.com/identixia-IDV/ID-Document-Liveness-Detection-iOS/blob/c3a78e0fdeff4e1ffffe316fa20eddfbfaf1ff65/DocumentReader/ViewController.swift#L218-L218
+https://github.com/identixia-IDV/ID-Document-Liveness-Detection-iOS/blob/6fb9c66a59dd6e48e847b938dde3a9e06ac88aa7/DocumentReader/ViewController.swift#L218-L218
 
 ## <img src="https://api.iconify.design/lucide/braces.svg?color=%230F766E" width="24" height="24" alt="" /> API
 
